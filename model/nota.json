@@ -1,0 +1,182 @@
+[
+    {
+        "_id": 0,
+        "name": "NOTA",
+        "year": 0,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "Chairman"
+    },
+    {
+        "_id": 1,
+        "name": "NOTA",
+        "year": 0,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "Vice Chairman"
+    },
+    {
+        "_id": 2,
+        "name": "NOTA",
+        "year": 0,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "General Secretary"
+    },
+    {
+        "_id": 3,
+        "name": "NOTA",
+        "year": 0,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "Arts Club Secretary"
+    },
+    {
+        "_id": 4,
+        "name": "NOTA",
+        "year": 0,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "Sports Secretary"
+    },
+    {
+        "_id": 5,
+        "name": "NOTA",
+        "year": 0,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "Magazine Editor"
+    },
+    {
+        "_id": 6,
+        "name": "NOTA",
+        "year": 0,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "UUC-1"
+    },
+    {
+        "_id": 7,
+        "name": "NOTA",
+        "year": 0,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "UUC-2"
+    },
+    {
+        "_id": 8,
+        "name": "NOTA",
+        "year": 0,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "Lady Rep- 1"
+    },
+    {
+        "_id": 9,
+        "name": "NOTA",
+        "year": 0,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "Lady Rep- 2"
+    },
+    {
+        "_id":10 ,
+        "name": "NOTA",
+        "year": 1,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "First Year Rep"
+    },
+    {
+        "_id": 11,
+        "name": "NOTA",
+        "year": 2,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "Second Year Rep"
+    },
+    {
+        "_id": 12,
+        "name": "NOTA",
+        "year": 3,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "Third Year Rep"
+    },
+    {
+        "_id": 13,
+        "name": "NOTA",
+        "year": 4,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "Fourth Year Rep"
+    },
+    {
+        "_id": 14,
+        "name": "NOTA",
+        "year": 0,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "CS Association Secretary"
+    },
+    {
+        "_id": 15,
+        "name": "NOTA",
+        "year": 0,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "EC Association Secretary"
+    },
+    {
+        "_id": 16,
+        "name": "NOTA",
+        "year": 0,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "BT Association Secretary"
+    },
+    {
+        "_id": 17,
+        "name": "NOTA",
+        "year": 0,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "Mech Association Secretary"
+    },
+    {
+        "_id": 18,
+        "name": "NOTA",
+        "year": 0,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "Mech Auto Association Secretary"
+    },
+    {
+        "_id": 19,
+        "name": "NOTA",
+        "year": 0,
+        "department": "Null",
+        "party": "Nota",
+        "promises": " ",
+        "position": "Mech Prod Association Secretary"
+    }
+]

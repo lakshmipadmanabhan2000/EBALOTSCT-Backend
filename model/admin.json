@@ -1,0 +1,11 @@
+[
+    {
+        "_id":10101099,
+        "name":"ADMIN",
+        "year":0,
+        "department":"ALL",
+        "password":"admin",
+        "email_id":"gokulsivan24@gmail.com",
+        "gender":"Male"
+    }
+]
